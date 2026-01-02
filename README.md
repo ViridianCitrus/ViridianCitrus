@@ -4,7 +4,7 @@
 
 - 🟩 Previously at [Dealer-FX](https://www.dealer-fx.com/), [Waterloo Reality Labs](https://uwrealitylabs.com/), [Ansys](https://www.ansys.com/), [Ericsson](https://www.ericsson.com/en), [Ouster](https://ouster.com/), [TD Innovation Lab](https://www.td.com/)
 - 📫 How to reach me: **k423wang@uwaterloo.ca**
-- 🌐 Check out my website! [UNDER CONSTRUCTION]
+- 🌐 Check out my website! https://viridiancitrus.github.io/kevinxrwang
 - 💼 https://www.linkedin.com/in/kevinxrwang/
 
 <table>
